@@ -1,7 +1,7 @@
 # Script for using R
 
 # operation
-2 + 3
+2 + 3 
 
 # an object
 samuele <- 2 + 3
