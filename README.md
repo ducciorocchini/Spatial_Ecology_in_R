@@ -2,7 +2,7 @@
 Repo for the course
 
 
-<img width="1425" height="1425" alt="plot1" src="https://github.com/user-attachments/assets/26508a53-713a-4fb7-9817-d250e0467ba5" />
+<img width="1425" height="1425" alt="plot1" src="https://github.com/user-attachments/assets/b622264c-3920-47c6-8941-769feaa8944a" />
 
 
 ## Course description
